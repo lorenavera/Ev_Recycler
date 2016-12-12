@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Ev_Recycler</string>
+    <string name="parqueCaldas">Parque Caldas</string>
+    <string name="catedral">Catedral</string>
+    <string name="sanFrancisco">Iglesia San Francisco</string>
+    <string name="puenteHumilladero">Puente del Humilladero</string>
+    <string name="rinconPayanes">Rincón Payanes</string>
+    <string name="txtparqueCaldas">Sin duda alguna es el lugar más emblemático de Popayán, en él se encuentran la Catedral de Popayán, la Torre del Reloj y el lugar en sí mismo.Antiguamente fue una plaza de mercado y tiene una larga historia de asesinatos, encuentros comunitarios y arte. Hoy en día es un parque lleno de frondoso árboles donde estudiantes, personas de negocios y demás, se encuentran en torno a reuniones culturales. Es un lugar placentero para caminar en uno de los días soleados de Popayán.</string>
+    <string name="txtcatedral">Dedicada a la Virgen María, la catedral basílica Nuestra Señora de La Asunción tiene un estilo arquitectónico distinto al de las demás iglesias de Popayán. Su primera construcción, en bahareque, fue destruida en 1566. El estilo neoclásico de su fachada, el interior decorado en estilo francés y su cúpula de 40 m de altura llaman la atención de los visitantes.</string>
+    <string name="txtsanFrancisco">La Iglesia de San Francisco es uno de los templos más visitados y admirados de la ciudad de Popayán. Es el más rico de la ciudad y en él "resaltan todas  las artes: la arquitectura, pintura, imaginería y mobiliario". La Iglesia está situada en la esquina que hace la calle cuarta con carrera novena.</string>
+    <string name="txtpuenteHumilladero">El Puente del Humilladero, que con sus dos arcos cruza el río Molino, es una construcción de mampostería levantada en 1873 por Fray Serafín Barbetti. Su nombre se deriva del esfuerzo que antes de la existencia del puente debían hacer los pobladores para subir la pendiente con pesadas cargas hasta la plaza mayor de Popayán. La vía era tan inclinada que muchas veces la gente tenía que subir casi de rodillas. </string>
+    <string name="txtrinconPayanes">Una réplica en miniatura de Popayán. Eso es el Rincón Payanés, también llamado Pueblito Patojo, que cuenta con copias pequeñas de los monumentos más representativos de la capital del Cauca, entre los que figuran el Puente del Humilladero, la Torre del Reloj, la Capilla de La Ermita y el Puente Chiquito. Allí se prueban platos típicos de la región y se pueden comprar artesanías y libros.</string>
+</resources>

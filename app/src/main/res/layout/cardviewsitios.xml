@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="5dp">
+
+    <android.support.v7.widget.CardView
+        android:id="@+id/cardViewSitios"
+        android:layout_width="match_parent"
+        android:layout_height="140dp"
+        android:layout_marginTop="15dp"
+        app:cardElevation="5dp"
+        app:cardCornerRadius="10dp"
+        app:cardBackgroundColor="@color/colorcard">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/nombreSitio"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="50dp"
+                android:layout_marginLeft="150dp"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:text="@string/parqueCaldas"/>
+
+            <ImageView
+                android:id="@+id/imageSitio"
+                android:layout_width="120dp"
+                android:layout_height="120dp"
+                android:layout_alignParentLeft="true"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginLeft="10dp"
+                android:src="@drawable/parquecaldas"/>
+
+        </RelativeLayout>
+    </android.support.v7.widget.CardView>
+</LinearLayout>
